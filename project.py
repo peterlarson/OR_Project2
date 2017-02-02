@@ -6,7 +6,7 @@ By: Peter Larson and Abhimayu Yadav
 
 
 #Here we open the data file to use. 
-file = open("data7.dat", 'r')
+file = open("best_case.dat", 'r')
 line1 = file.readline()
 N,R,C = line1.split(" ")
 
